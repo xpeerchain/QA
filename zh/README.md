@@ -1,2 +1,0 @@
-# QA
-International information station
