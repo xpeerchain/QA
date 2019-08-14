@@ -1,5 +1,7 @@
 # XPeerchain 文档
 
+<iframe height=425 width=1200 src='http://player.youku.com/embed/XNDI5NzUxNDY3Ng==' frameborder=0 'allowfullscreen'></iframe>
+
 ![XPC分配](assets/images/index_1.png)
 
 | 分配比例   | 用途   | 
