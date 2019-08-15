@@ -8,7 +8,7 @@
   
   点点链独创的高效交易解封法将把持币者团结起来，让大家跟着定制交易法则一步一步地拉升XPC币值以维持恒升状态。
         
-<iframe height=50% width=100% src='http://player.youku.com/embed/XNDI5NzUxNDY3Ng==' frameborder=0 'allowfullscreen'></iframe>
+<iframe height=400 width=100% src='http://player.youku.com/embed/XNDI5NzUxNDY3Ng==' frameborder=0 'allowfullscreen'></iframe>
 
 ### 三大亮点
 
