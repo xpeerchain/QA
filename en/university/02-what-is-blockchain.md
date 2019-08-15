@@ -4,7 +4,7 @@ Ever since the initial launch of Bitcoin in 2009, blockchain technology has prol
 
 ## Centralized Private Ledgers
 
-At its core, the XPeerchain blockchain is a distributed public ledger. A ledger is traditionally a document such as a spreadsheet in which accounts are kept of economic transactions, including credits, debits, and balances. They are generally used to keep track of an individual's or organization's financial standing or other recordable data such as assets, liabilities, income, expenses and capital.
+At its core, the Peercoin blockchain is a distributed public ledger. A ledger is traditionally a document such as a spreadsheet in which accounts are kept of economic transactions, including credits, debits, and balances. They are generally used to keep track of an individual's or organization's financial standing or other recordable data such as assets, liabilities, income, expenses and capital.
 
 Before the invention of the blockchain, it was necessary for individuals to manage their financial accounts by placing their trust in a centrally managed third party organization which maintained its own private ledger. Example services include banks, credit card issuers, money transfer services and other financial institutions.
 
@@ -24,7 +24,7 @@ Thus, rather than trust being concentrated in a central entity to manage its own
 
 The blockchain itself can be accurately described as a continuously growing list of individual transaction records called blocks. As transactions are initiated by users of the network they are broadcast out to the network of validation nodes. One by one these transactions are validated, grouped together and recorded into a block which is then attached to the end of the blockchain as the next link in the chain. Therefore every block is linked, forming one long cryptographically secured chain of blocks. When combined together these individual blocks of data form the entirety of the public ledger, which consists of all the transactions that have ever taken place on the network.
 
-In Bitcoin and XPeerchain, a new block is added to the chain about every ten minutes, which contains all the transactions made by users in that period. Account balances on the public ledger are consistently and automatically updated with each new added block to reflect changes from these transactions.
+In Bitcoin and Peercoin, a new block is added to the chain about every ten minutes, which contains all the transactions made by users in that period. Account balances on the public ledger are consistently and automatically updated with each new added block to reflect changes from these transactions.
 
 ## Distributed Consensus Protocol
 
@@ -32,7 +32,7 @@ Unlike a centrally managed entity that depends on user trust of authority figure
 
 A distributed consensus protocol is a coded set of rules that a blockchain runs on. This protocol and its underlying rules are entirely responsible for how a blockchain functions as well as its process for validating transactions and blocks. The protocol is also what gives the blockchain its many beneficial qualities, which are summarized below.
 
-**Automated:** Since a blockchain protocol runs on code, security providers do not have to manually validate transactions and blocks, which means the consensus and verification process of the public ledger completely automated. From the standpoint of the end user, a submitted transaction is automatically processed by the network. From the standpoint of the validator, transactions submitted by users of the network are automatically verified and accepted or rejected by the node software they are running.
+**Automated:** Since a blockchain protocol runs on code, security providers do not have to manually validate transactions and blocks, which means the consensus and verification process of the public ledger is completely automated. From the standpoint of the end user, a submitted transaction is automatically processed by the network. From the standpoint of the validator, transactions submitted by users of the network are automatically verified and accepted or rejected by the node software they are running.
 
 **Trustless:** For the first time in history, the blockchain can provide a network that is transparent, verifiable and one that can be trusted by all parties as it is impartial by its very nature. This unbiased or neutral quality of the blockchain is made possible by the public nature of the ledger and the ability of a large and globally decentralized group of security validators to verify its accuracy. This prevents the falsification of transactions and leads to a state of trustlessness in which all participants of the network can be assured that their data is guaranteed to be accurate. This state of trustlessness is the core value proposition of the blockchain. In this state the users of the network no longer need to trust anyone because security is automatically handled for them by the blockchain's consensus protocol. Users only have need to trust that this protocol continues functioning as it was designed to.
 

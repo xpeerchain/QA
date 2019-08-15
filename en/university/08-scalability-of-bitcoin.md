@@ -85,7 +85,7 @@ This is what is meant by the blockchain becoming a settlement layer. Transaction
 
 ## Blockchain as a Base Layer
 
-Lightning is only one example of a layer 2 network; another is PeerAssets, which is a layer 2 token protocol developed for XPeerchain. There will be other examples as time goes on. Eventually features and improvements will build to the point where we will have layer 3 networks and beyond. All future layers remain completely dependent on the security of the base layer blockchain. Without a secure base layer acting as a solid foundation, everything built on top will be jeopardized.
+Lightning is only one example of a layer 2 network; another is PeerAssets, which is a layer 2 token protocol developed for Peercoin. There will be other examples as time goes on. Eventually features and improvements will build to the point where we will have layer 3 networks and beyond. All future layers remain completely dependent on the security of the base layer blockchain. Without a secure base layer acting as a solid foundation, everything built on top will be jeopardized.
 
 Satoshi’s original vision - a peer to peer cash system where transactions are typically conducted on chain - is no more, at least with regards to Bitcoin. Developers have instead elected to focus on an alternate scaling solution that limits the amount of on-chain transaction volume.
 
@@ -109,6 +109,6 @@ One issue that remains to be explored is how the existence of layer 2 networks w
 
 However this is untested since layer 2 networks are still new and have not seen significant adoption yet. Some even argue that the low fees of layer 2 networks will actually attract more on-chain transactions, resulting in higher profitability for miners. Price is also a major factor. If bitcoin were high priced, miners may be able to remain profitable off few very expensive transactions, even when 90% of users are conducting off-chain transactions on layer 2 networks. The crypto industry is currently in unexplored territory and it remains to be seen how these new technologies will impact blockchain security.
 
-What we can say for sure however is that XPeerchain and proof-of-stake were intentionally designed without this conflict over transaction fees. XPeerchain by design is not dependent on transaction fees for security, therefore it is 100% compatible with layer 2 networks. This will be fully explained later in the article.
+What we can say for sure however is that Peercoin and proof-of-stake were intentionally designed without this conflict over transaction fees. Peercoin by design is not dependent on transaction fees for security, therefore it is 100% compatible with layer 2 networks. This will be fully explained later in the article.
 
 ---

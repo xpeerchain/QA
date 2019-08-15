@@ -30,13 +30,13 @@ With that said, miners are financially dependent on the Bitcoin network through 
 
 ## Unsustainable Energy Consumption
 
-Centralization of mining power is not the only major concern. The level of energy consumption by miners to keep the network securely operating is growing larger by the day. While it is difficult to accurately determine, current estimates put Bitcoin energy expenditure in the same league as the consumption of some medium sized countries in an entire year, and this is only expected to increase as time goes on. Such energy consumption just to secure a distributed network and prevent cheating is incredibly wasteful, especially when other blockchains like XPeerchain exist which have been proven to drastically reduce the level of energy usage.
+Centralization of mining power is not the only major concern. The level of energy consumption by miners to keep the network securely operating is growing larger by the day. While it is difficult to accurately determine, current estimates put Bitcoin energy expenditure in the same league as the consumption of some medium sized countries in an entire year, and this is only expected to increase as time goes on. Such energy consumption just to secure a distributed network and prevent cheating is incredibly wasteful, especially when other blockchains like Peercoin exist which have been proven to drastically reduce the level of energy usage.
 
 ## Geographical Centralization of Miners
 
 Another problem concerning energy usage is the fact that most large miners operate in areas where there are low energy costs. Lower energy costs make it possible for miners to keep more of the profit they earn from block rewards. The problem with this is that it has had the effect of centralizing the majority of mining in countries where the electricity is inexpensive.
 
-Centralizing mining power in a single country exposes those miners, and therefore the network itself, to the possibility of being targeted by that country’s government. This could include heavy regulations, shutting down mining operations altogether or even forced censorship of transactions. A truly distributed network like XPeerchain has security providers that are spread globally, making it incredibly difficult to influence or shut down the network.
+Centralizing mining power in a single country exposes those miners, and therefore the network itself, to the possibility of being targeted by that country’s government. This could include heavy regulations, shutting down mining operations altogether or even forced censorship of transactions. A truly distributed network like Peercoin has security providers that are spread globally, making it incredibly difficult to influence or shut down the network.
 
 ## Diverging Interests of Miners & Users
 
@@ -44,6 +44,6 @@ It should also be noted that miners may not personally have the interests of the
 
 This may even lead to situations where miners act against the development of the network, favoring short-term rewards over long-term growth. In a severe case where miners refused to upgrade to the newest version of Bitcoin, other validation nodes were forced to start rejecting their new blocks; this caused miners that refused to upgrade to lose block rewards. Validators across the network held miners hostage financially, forcing them into a situation where they had to upgrade in order to continue earning money to pay for their mining operations.
 
-This ability creates a separation of powers where block validators on the network can force miners to upgrade the blockchain to a new version by rejecting their blocks and not providing them compensation. A much better model however would be where the interests of both users and miners were aligned so that many of the toxic community disagreements between different factions were eliminated. A model like this, however, is impossible with proof-of-work; only proof-of-stake which XPeerchain operates on.
+This ability creates a separation of powers where block validators on the network can force miners to upgrade the blockchain to a new version by rejecting their blocks and not providing them compensation. A much better model however would be where the interests of both users and miners were aligned so that many of the toxic community disagreements between different factions were eliminated. A model like this, however, is impossible with proof-of-work; only proof-of-stake which Peercoin operates on.
 
 ---
