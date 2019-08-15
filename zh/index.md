@@ -42,7 +42,7 @@
 
 ### 附注资料
 
-SCGC官网：[http://xpeer.org](http://xpeer.org)
+XPC官网：[http://xpeer.org](http://xpeer.org)
 
 白皮书下载：[https://github.com/xpeerchain/QA/raw/master/zh/assets/pdf/XPeerchain%20TechnicalWhitePaper.pdf](https://github.com/xpeerchain/QA/raw/master/zh/assets/pdf/XPeerchain%20TechnicalWhitePaper.pdf)
 
